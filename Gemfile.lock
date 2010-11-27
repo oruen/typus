@@ -1,5 +1,5 @@
 GIT
-  remote: https://github.com/fesplugas/rails-tartare.git
+  remote: git://github.com/fesplugas/rails-tartare.git
   revision: 83c2190a6737b27a2d46cdbbd84be74bd6065d72
   specs:
     tartare (1.0.0)
